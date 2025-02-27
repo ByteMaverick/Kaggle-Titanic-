@@ -1,4 +1,4 @@
-# Kaggle-Titanic-
+# Kaggle Titanic Challenge
 
 This repository is my submission of the https://www.kaggle.com/c/titanic. In this competition, the goal is to perform a 2-label classification problem: predict which passengers survived the tragedy. 
 
@@ -50,9 +50,23 @@ Goal: For each passenger, predict the label (0 or 1).
 ## Exploratory Data Analysis(EDA) 
 
 Train Data null Values 
-![Alt Text](/Users/ansari/Desktop/a4fd8f94-2916-4ef9-a314-2748dad7e10a.png)
 
-Test data Null Values 
+
+
+
+![Alt Text](Titanic(EDA)/8bba0eee-ffbf-4984-9da7-a6c94bd08ba2.png)
+![Alt Text](/Titanic(EDA)/6d9c2d2e-26d6-4d64-837f-69c754934e83.png)
+
+
+![Alt Text](/Titanic(EDA)/86a876c7-eaa8-4424-8081-416dcada906e.png)
+
+![Alt Text](/Titanic(EDA)/c2735079-8a18-43fd-966b-784e6f8fd3ab.png)
+
+![Alt Text](/Titanic(EDA)/49843a0d-8e85-40ea-ba1a-cb0edb98a133.png)
+
+![Alt Text](/Titanic(EDA)/c104b674-0c40-462b-a300-2830486518c7.png)
+
+
 
 
 
