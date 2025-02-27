@@ -86,6 +86,9 @@ For this type of features, we don't directly do analysis. A first transformation
 	- the title of the passenger
 	- Group the title to reduce the number of categories
 
+## Feature Engineering 
+
+
   
 
 
