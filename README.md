@@ -88,8 +88,28 @@ For this type of features, we don't directly do analysis. A first transformation
 
 ## Feature Engineering 
 
-
+### New Features Implemented 
+-  Family_size:  Column that combines the number of siblings, parents, and spouses
+-  age_transformed: I used Box-Cox transformation to normalize the data since age was highly skewed.
+-  Has_Cabin: Classifies passenger based on whether they have a cabin or not( 0 - No Cabin, 1 - Has a Cabin)
+-  Title: Extracted  the titles from the names column.
+- Cabin_Deck: If the passengers have a cabin, saves the cabin number
   
+### Possible Features
+- Sex
+- family_members
+- Has_Cabin
+- Title
+- Cabin_Deck
+- Embarked
+- age_transformed
+- Pclass
+- Ticket_Group_Size
+- Fare
+
+## Model Training 
+
+
 
 
 
