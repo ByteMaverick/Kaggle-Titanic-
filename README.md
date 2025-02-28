@@ -78,11 +78,11 @@ Train Data null Values
 
 Exploratory analysis revealed:
 
-- Pclass: Passenagers from classes had a higher chance of survival, Pclass should be used as a direct preditor
+- Pclass: Passenagers from higher classes had a higher chance of survival, Pclass should be used as a direct predictor
 - SibSp and Parach: Both had a measurable impact on the chances of survival. Rather than using both as separate predictors they should be combined (_Feature engineering required_)
 - Fare: Initial analysis suggests there is a direct positive relation between the  fare paid and survival chance. Hence Fare should be used directly as a predictor
 - Sex: Direct correlation between gender and survival chance. Therefore should be used directly(_Hot one encoding required_)
-- Embarked: Some Correlation between port of Embarkation and survival rate
+- Embarked: Some Correlation between the port of Embarkation and survival rate
 - Age Young and Old People survived but people of Middle Ages did not. Should be used as a predictor. Age is skewed and Fare is highly skewed -> Box-Cox Transformation is required
 
 ### Text Features
